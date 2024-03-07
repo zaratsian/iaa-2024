@@ -17,22 +17,22 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
 ---
 ## IAA Module - Session 2 - SQL and NoSQL Services
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1zB7K2ud91WOKuCENic4WNLz6lSqJ0yUbijYQJ3HbFU0/edit?usp=sharing)
 
-* Intro to Apache SparkSQL
-* Apache SparkSQL
+* SQL Databases
+* NoSQL Databases
 * BigQuery (Serverless SQL)
 * [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
 * Google Cloud Firestore (NoSQL)
 
 **Assignments**
-* [Assignment 1 SQL]()
-  - Due on TBD
+* [Assignment 1 SQL](./session_02/Assignment_1_SQL.md)
+  - Due on Thursday, March 14, 2024 at 11:59pm EST
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
-* [Assignment 2 NoSQL]()
-  - Due on TBD
+* [Assignment 2 NoSQL](https://colab.research.google.com/drive/1Fp8OYxF9cyY-WIinV4w4IXOxCIRMW0v3?usp=sharing)
+  - Due on Thursday, March 14, 2024 at 11:59pm EST
   - Please complete as an individual assignment
   - No need to email your code for assignment #2 unless you want specific code / syntax feedback. I'll be able to see the submitted results within the Firestore DB.
 
