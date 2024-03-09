@@ -39,7 +39,7 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1JG4nMPv1ryovSpZG62XGS0frzpb0c82EEincZZ7acMU/edit#slide=id.g7167105720_0_348)
 
 * [Apache Spark](https://spark.apache.org/) Overview
 * Spark Machine Learning ([MLlib](https://spark.apache.org/docs/latest/ml-guide.html))
@@ -49,10 +49,10 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
 * Spark Code Walk-through (within Google Colab)
 
 **Assignment**
-* [Assignment 3 - SparkML]()
-  - Due on TBD
-  - Please complete as an individual assignment
-  - Email your code to d.zaratsian@gmail.com
+* [Assignment 3 - SparkML](./session_03/Spark_ML_Assignment_template.ipynb)
+  - Due on Friday, March 22 at 11:59pm EST.
+  - Please complete as a team/group assignment
+  - Email your code to d.zaratsian@gmail.com and include the name of everyone on your team.
 
 ---
 ## IAA Module - Session 4 - Cloud Machine Learning
