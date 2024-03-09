@@ -49,10 +49,10 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
 * Spark Code Walk-through (within Google Colab)
 
 **Assignment**
-* [Assignment 3 - SparkML](./session_03/Spark_ML_Assignment_template.ipynb)
-  - Due on Friday, March 22 at 11:59pm EST.
-  - Please complete as a team/group assignment
-  - Email your code to d.zaratsian@gmail.com and include the name of everyone on your team.
+* [Assignment 3 - SparkML](https://colab.research.google.com/drive/1AVRfN0SUVBiX5V7YpaMyn4BFu4dmr3Ht?usp=sharing)
+  - Due on Friday, March 22 at 11:59pm EST
+  - Please complete as a team/group assignment (or if you prefer, you're welcome to complete on your own).
+  - Email your code to d.zaratsian@gmail.com and include the names of everyone on your team.
 
 ---
 ## IAA Module - Session 4 - Cloud Machine Learning
