@@ -55,7 +55,58 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
   - Email your code to d.zaratsian@gmail.com and include the names of everyone on your team.
 
 ---
-## IAA Module - Session 4 - Cloud Machine Learning
+## IAA Module - Session 4 - Cloud Services for Generative AI
+
+[**Slides**](https://docs.google.com/presentation/d/1tMwEf6bC5CYKCqaFMnJvEAVhoVe8rNujV_OelGFInuA/edit?usp=sharing)
+
+* [GenAI on Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
+* [Google Gemini Multimodal Models](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview)
+* [Langchain](https://python.langchain.com/docs/get_started/introduction)
+* [Huggingface Models](https://huggingface.co/models)
+* [Langchain Integration with Google Cloud](https://python.langchain.com/docs/integrations/platforms/google)
+* [Google Gemma Open Model](https://ai.google.dev/gemma) (on Huggingface: [Gemma](https://huggingface.co/google))
+
+**Assignment**
+* Assignment 4 - GenAI
+  - Due on Friday, March 22 at 11:59pm EST
+  - Please complete as a team/group assignment (or if you prefer, you're welcome to complete on your own).
+  - Email your code to d.zaratsian@gmail.com and include the names of everyone on your team.
+
+**Assignment**
+* Assignment 4 - GenAI
+  - Due on Friday, March 22 at 11:59pm EST
+  - Assignment Details:
+    1. Select a Generative AI use case that interests you.
+    2. Describe how you would solve the use case. 
+        - What technology and framework(s) would you use
+        - what prompt design would you consider
+        - what LLM would you use
+        - what challenges do you anticipate in solving it. 
+    3. (Bonus) Prototype the use case by developing GenAI code that starts to prove out your idea. The goal here is to encourage you to start to programatically interact with the GenAI models, work on prompting, and integrate supporting framework or LLM techniques to help you solve your use case. 
+    4. Submit your answers using this code and associated structure: 
+        ```
+        import requests
+        payload = {
+            "code": "I_WILL_GIVE_THIS_TO_YOU_IN_CLASS",
+            "name": "John Smith",
+            "use_case": "Using Generative AI to generate a workout plan",
+            "tech_stack": "Python, Google Vertex AI Gemini, Flask, Langchain, Spanner, GKE",
+            "prompt_design": "I would use prompt ...",
+            "llm": "Google Gemini Pro",
+            "challgenges": "I foresee a challenge when impelmenting xyz...",
+            "link_to_colab_notebook_or_github_page": "https://colab.sandbox.google.com/"
+        }
+        response = requests.post("I_WILL_ADD_URL_HERE", json=payload)
+        if response.status_code == 200:
+            print(f'Success. {response.text}')
+        else: 
+            print(f'Warning. Status Code: {response.status_code}. {response.text})
+        ```
+  - Please complete as an individual assignment.
+  - I'll be able to see you submission when you send it using the code that I provided above. Please be sure to include your name as part of the payload.
+
+---
+## IAA Module - Session 5 - Cloud Machine Learning
 
 [**Slides**]()
 
@@ -65,18 +116,6 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
 * [Google Vertex AI Platform](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
 * [Google Vertex Notebooks (Workbench)](https://cloud.google.com/vertex-ai/docs/workbench/introduction)
 * [Google Deep Learning Containers](https://cloud.google.com/deep-learning-containers/docs/choosing-container)
-
----
-## IAA Module - Session 5 - Cloud Services for Generative AI
-
-[**Slides**]()
-
-* [GenAI on Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
-* [Google Gemini Multimodal Models](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview)
-* [Langchain](https://python.langchain.com/docs/get_started/introduction)
-* [Huggingface Models](https://huggingface.co/models)
-* [Langchain Integration with Google Cloud](https://python.langchain.com/docs/integrations/platforms/google)
-* [Google Gemma Open Model](https://ai.google.dev/gemma) (on Huggingface: [Gemma](https://huggingface.co/google))
 
 ---
 ## IAA Module - Session 6 - Cloud Services for ML & Serverless
