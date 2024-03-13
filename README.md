@@ -69,12 +69,6 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
 **Assignment**
 * Assignment 4 - GenAI
   - Due on Friday, March 22 at 11:59pm EST
-  - Please complete as a team/group assignment (or if you prefer, you're welcome to complete on your own).
-  - Email your code to d.zaratsian@gmail.com and include the names of everyone on your team.
-
-**Assignment**
-* Assignment 4 - GenAI
-  - Due on Friday, March 22 at 11:59pm EST
   - Assignment Details:
     1. Select a Generative AI use case that interests you.
     2. Describe how you would solve the use case. 
