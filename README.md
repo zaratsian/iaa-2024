@@ -90,11 +90,11 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
             "challgenges": "I foresee a challenge when impelmenting xyz...",
             "link_to_colab_notebook_or_github_page": "https://colab.sandbox.google.com/"
         }
-        response = requests.post("I_WILL_ADD_URL_HERE", json=payload)
+        response = requests.post("https://genai-hw-t3njo4m6mq-uc.a.run.app/submit_hw", json=payload)
         if response.status_code == 200:
-            print(f'Success. {response.text}')
-        else: 
-            print(f'Warning. Status Code: {response.status_code}. {response.text})
+            print(f'{response.text}')
+        else:
+            print(f'{response.text} Status Code: {response.status_code}.')
         ```
   - Please complete as an individual assignment.
   - I'll be able to see you submission when you send it using the code that I provided above. Please be sure to include your name as part of the payload.
