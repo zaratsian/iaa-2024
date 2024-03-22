@@ -114,7 +114,7 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2024
 ---
 ## IAA Module - Session 6 - Cloud Services for ML & Serverless
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1avRm-Ezi4Zj4GiAMR55OgfWN13C7pnvWy6Ck4kya7zQ/edit#slide=id.g7167dab5d9_0_348)
 
 * Overview of Google Cloud Services
 * [Cloud Functions](https://cloud.google.com/functions)
